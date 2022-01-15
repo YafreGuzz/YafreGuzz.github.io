@@ -1,0 +1,37 @@
+body
+{
+  background: lightpink;
+}
+.imgDev
+{
+  text-align: center;
+}
+.imgDev img
+{
+  width: 150px;
+  height: 100%;
+}
+
+.part2img
+{
+  text-align: center;
+}
+
+.part2img img
+{
+  width: 300px;
+  height: 100%;
+}
+
+.btn
+{
+  background-color: white;
+  text-decoration: none;
+  border: 2px solid black;
+  padding: 1%;
+  color: black;
+}
+.btn:hover
+{
+  background-color: lightgray;
+}
