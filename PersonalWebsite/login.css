@@ -1,0 +1,70 @@
+body
+{
+  background-color: black;
+  min-width: 25%;
+}
+.header
+{
+  color: white;
+  box-shadow: 10px 5px gray;
+  border: 2px solid white;
+  border-radius: 2em;
+  margin: auto;
+  width: 300px;
+  text-align: center;
+  margin-top: 240px;
+}
+.header:hover
+{
+  font-size: 20px;
+}
+.firstbox
+{
+  background-color: white;
+  box-shadow: 10px 5px gray;
+  border: 2px solid black;
+  opacity: 10px;
+  width: 450px;
+  height: 300px;
+  margin: auto;
+  border-radius: 2em;
+  text-align: center;
+}
+
+.firstbox_1
+{
+  margin: auto;
+  width: 300px;
+}
+
+.fbox_2
+{
+  padding: 8px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 2em;
+}
+
+.fbox_3
+{
+  padding: 8px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 2em;
+}
+
+.fbox_4
+{
+  padding: 8px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 2em;
+}
+
+.fbox_4:hover
+{
+  font-size: 18px;
+  background-color: black;
+  color: white;
+
+}
